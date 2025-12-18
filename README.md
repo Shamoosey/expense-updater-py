@@ -1,7 +1,7 @@
 ## Py Expense Updater
 
 Most of this was coded with AI but it has been tested and it works as expected.
-This is a tool used to use my bank CSV files to update my google sheets budget and automatically pull data over.
+This is a tool setup to use my bank CSV files to update my google sheets budget and automatically pull data over.
 
 I am using the [Measure of a Plan](https://themeasureofaplan.com/) budget tracking spreadsheet as a template
 
